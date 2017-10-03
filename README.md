@@ -1,3 +1,3 @@
-# Multiplication Practice
+# Multiplication Problem Generator
 
-Multiplication Practice is a simple multiplication problem generator to let users build their multiplication skills.
+Multiplication Problem Generator is a simple multiplication problem generator to let users build their multiplication skills.
